@@ -3,7 +3,7 @@
 The goal of this project is to develop an algorithm to automatically generate our fantasy football schedule. A fantasy football schedule consists of a 14 week period.
 ## Constraints
 - Each team must play each other team exactly twice - once in the first 7 weeks and once in the second 7 weeks.
-- Each team will play exactly 7 games as the home team and 7 games as the road time.
+- Each team will play exactly 7 games as the home team and 7 games as the road team.
 - Certain games are marked as "primetime" games. These are games that occur in real life and must be part of the schedule. These will change every year and vary based on the teams in the league.
 - Each team has a bye week in real life, giving their opponent one free win each year. This does count as one of the two meetings between teams. Each team will receieve exactly one free win in a set of 14 games.
 

@@ -1,0 +1,13 @@
+6
+Team1 6
+Team2 4
+Team3 3
+Team4 5
+Team5 6
+Team6 3
+Team1 Team3 2
+Team1 Team4 1
+Team1 Team2 3
+Team2 Team3 1
+Team5 Team6 1
+Team5 Team6 8
